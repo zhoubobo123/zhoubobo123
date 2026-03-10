@@ -12,7 +12,7 @@
 ![VISSIM](https://img.shields.io/badge/VISSIM-Expert-brightgreen?style=for-the-badge&logo=appveyor)
 ![Aimsun](https://img.shields.io/badge/Aimsun-Advanced-blue?style=for-the-badge&logo=appveyor)
 
-### 数据分析与编程
+### 大数据分析
 ![Python](https://img.shields.io/badge/Python-Expert-brightgreen?style=for-the-badge&logo=python)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-blue?style=for-the-badge&logo=mathworks)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql)
